@@ -1,0 +1,13 @@
+google.com, pub-6512008707722630, DIRECT, f08c47fec0942fa0
+vungle.com, 63629497481371001a2da5ae, DIRECT, c107d686becd2d77
+sonobi.com,5b003395a5,RESELLER,d1a215d9eb5aee9e
+pubmatic.com,158408,RESELLER,5d62403b186f2ace
+vidoomy.com,2412786,RESELLER
+adtonos.com,PUB3603521960,RESELLER
+adswizz.com,consumable,RESELLER
+tritondigital.com,106423,RESELLER,19b4454d0b87b58b
+targetspot.com,297,RESELLER,feb28ed826dcf532
+consumable.com,2001409,RESELLER,aefcd3d2f45b5070
+smaato.com,1100042823,RESELLER,07bcf65f187117b4
+pubmatic.com,162223,RESELLER,5d62403b186f2ace
+appnexus.com,13227,RESELLER
