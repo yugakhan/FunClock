@@ -34,16 +34,20 @@ function HeroHome() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Fun Clock<br/><span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">A great focus clock</span></h1>
+            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Fun Clock<br/></h1>
+            
+            <h2 className="md:text-5xl font-extrabold leading-tighter tracking-tighter mb-4"><span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">Stay Focused, Animated Clock</span></h2>
+            
             <div className="max-w-3xl mx-auto">
-              <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Let go of your work, forget your troubles instantly, release the pressure, and let your mood dance with the particles.</p>
+              <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Fun Clock is a relaxed and fun clock app that improves your concentration, keeps you focused, and improves your learning efficiency.</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://apps.apple.com/app/dancing-particle/id6444665083">Download App</a>
+                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://apps.apple.com/app/id6444765326">Apple Store</a>
                 </div>
-                {/* <div>
-                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
-                </div> */}
+
+                <div>
+                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://play.google.com/store/apps/details?id=com.yugakhan.funclock">Google Play</a>
+                </div>
               </div>
             </div>
           </div>

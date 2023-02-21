@@ -32,8 +32,8 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Decompression particle effects</h1>
-            <p className="text-xl text-gray-600">Fun Clock is an interactive project for decompress, relaxation, and healing. It contains nearly 50 wonderful particle interaction effects, each of which is carefully polished and addictive.</p>
+            <h1 className="h2 mb-4">Nice Ticking Sound</h1>
+            <p className="text-xl text-gray-600">Its design style is simple, the interaction method is direct, and the animation is exquisite and attractive. Users can personalize it according to their own needs.</p>
           </div>
 
           {/* Section content */}
