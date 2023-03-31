@@ -46,7 +46,11 @@ function HeroHome() {
                 </div>
 
                 <div>
-                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://play.google.com/store/apps/details?id=com.yugakhan.funclock">Google Play</a>
+                  <a className="btn text-white bg-green-800 hover:bg-green-700 w-full mb-4 sm:w-auto sm:ml-4" href="https://play.google.com/store/apps/details?id=com.yugakhan.funclock">Google Play</a>
+                </div>
+
+                <div>
+                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full mb-4 sm:w-auto sm:ml-4" href="https://yugakhan.github.io/FunClock/assets/app-release.apk">APK Install</a>
                 </div>
               </div>
             </div>
